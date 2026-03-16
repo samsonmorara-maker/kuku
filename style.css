@@ -1,5 +1,6 @@
 .student-data{
 font-family: 'Courier New', Courier, monospace;
-background-color: rgb(156, 156, 231);
+background-color: #9c9ce7;
 font-size: xx-large;
+table-layout: auto;
 }
